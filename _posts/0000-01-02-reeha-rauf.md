@@ -2,5 +2,5 @@
 layout: slide
 title: 'Welocome to our second slide!'
 ---
-your text
+*pshh*...hairvand
 use the left arrow to go back!
